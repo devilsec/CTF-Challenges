@@ -1,0 +1,3 @@
+[submodule "Linux-Privesc"]
+	path = Linux-Privesc
+	url = https://github.com/sadeli413/CTF-Challenges.git
